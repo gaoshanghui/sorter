@@ -1,6 +1,6 @@
 # Sorter
 
-A generic sorter that is using TypeScript.
+A generic sorter that is written in TypeScript.
 
 ## Commands
 

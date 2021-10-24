@@ -1,7 +1,7 @@
 {
   "name": "sorter",
   "version": "1.0.0",
-  "description": "",
+  "description": "A generic sorter that is written in TypeScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
